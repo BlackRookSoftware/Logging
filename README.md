@@ -3,6 +3,8 @@
 Copyright (c) 2019 Black Rook Software. All rights reserved.  
 [https://github.com/BlackRookSoftware/Logging](https://github.com/BlackRookSoftware/Logging)
 
+### NOTE: This project has been archived and rolled into Base as a single file.
+
 ### Required Libraries
 
 NONE
